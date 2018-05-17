@@ -1,0 +1,37 @@
+{"yemekler": [
+	{
+	  "id": "1",
+	  "adi": "Plov",
+	  "aciqlama": "Milli yemeyimiz",
+	  "novu": "As",
+	  "hazirlanma_zamani" : "5 saat"
+	},
+	{
+	  "id": "2",
+	  "adi": "Uc baci dolma",
+	  "aciqlama": "Milli yemeyimiz",
+	  "novu": "Dolma",
+	  "hazirlanma_zamani" : "3 saat"
+	},
+	{
+	  "id": "3",
+	  "adi": "Sud asi",
+	  "aciqlama": "Milli yemeyimiz",
+	  "novu": "As",
+	  "hazirlanma_zamani" : "2 saat"
+	},
+	{
+	  "id": "4",
+	  "adi": "Yarpaq Dolma",
+	  "aciqlama": "Milli yemeyimiz",
+	  "novu": "Dolma",
+	  "hazirlanma_zamani" : "2 saat"
+	},
+	{
+	  "id": "5",
+	  "adi": "Kelem dolma",
+	  "aciqlama": "Milli yemeyimiz",
+	  "novu": "Dolma",
+	  "hazirlanma_zamani" : "1 saat"
+	}
+]}
